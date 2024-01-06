@@ -1,0 +1,19 @@
+ <html>
+   <head>
+     <title> siddhartha Institute of engineering and technology</title>
+<body bgcolor="white">
+      <p><marquee direction="right">Welcome to our college website</marquee direction>
+
+  <button>Login</button>
+<ahref=" https://jagan1706.github.io/Hdfc/"></a>
+  <h1>Detils</h1>
+  <ol>
+  <li>About us</li>
+    <li>Admissions</li>
+      <li>Departments</li>
+  <li>placements</li>
+  <li>Exam cell</li>
+  <p style ="tect-align:right"> </p>
+</body>
+   </head>
+ </html>
